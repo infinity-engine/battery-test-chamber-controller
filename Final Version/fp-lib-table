@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "MEGA_PRO_EMBED_CH340G___ATMEGA2560")(type "KiCad")(uri "${KIPRJMOD}/MEGA_PRO_EMBED_CH340G___ATMEGA2560.pretty")(options "")(descr ""))
+  (lib (name "github_repo")(type "KiCad")(uri "${KIPRJMOD}/github_repo.pretty")(options "")(descr ""))
+)

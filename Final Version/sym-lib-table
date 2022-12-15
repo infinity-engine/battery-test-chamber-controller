@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "MEGA_PRO_EMBED_CH340G___ATMEGA2560")(type "Legacy")(uri "${KIPRJMOD}/MEGA_PRO_EMBED_CH340G___ATMEGA2560/MEGA_PRO_EMBED_CH340G___ATMEGA2560.lib")(options "")(descr ""))
+)
